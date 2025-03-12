@@ -1,7 +1,7 @@
 
-# TeamID-A0136(Neural Nexus)
 
-## AI Mentor Platform
+# AI Mentor Platform
+---
 
 ## About This Platform
 
@@ -23,32 +23,42 @@ The **AI Mentor Platform** is designed to provide personalized mentorship and le
 - **Database:** MySQL, Redis
 
 
-### Overall Architecture
 
-![AI Mentor Architecture](https://github.com/user-attachments/assets/d8a19cd8-0c86-425e-9402-61394d40c10c)
 
-### Pages Screenshots
+# Pages Screenshots
 
-#### Data Extrcator
+## Login Page 
+![Image](https://github.com/user-attachments/assets/b20cbaf5-03fe-433a-9f4f-c75d683b841b)
 
-![Data_extractor_scre](https://github.com/user-attachments/assets/1395be10-3e5f-49ee-8174-b45ee0cc5c41)
+---
 
-#### Home Page
+## Data Extractor 
+![Image](https://github.com/user-attachments/assets/87738449-42d7-4475-a769-1053db11a735)
+![Image](https://github.com/user-attachments/assets/5441434f-e0c1-4170-a283-77d45ed0b8d7)
 
-![home](https://github.com/user-attachments/assets/1bb6dba9-29e5-41d8-82c8-1d05bb3de7b5)
+---
+##  Landing Page
+![Image](https://github.com/user-attachments/assets/77dd4f55-661c-4a1b-9f6b-4ca559c931ad)
 
-#### AI Mentor
+---
+##  Mentor AI 
+![Image](https://github.com/user-attachments/assets/d3744c42-4af8-4b85-b730-4c3be080f774)
+![Image](https://github.com/user-attachments/assets/1f3c399f-4dc3-4d16-bf4e-5c4ec199470d)
 
-![Chatter](https://github.com/user-attachments/assets/5baea936-f854-4a20-9077-9f0df8600940)
+## Flow Generation 
+ 
+![Image](https://github.com/user-attachments/assets/57cc0c2b-3229-4c5b-af03-771183462e25)
+![Image](https://github.com/user-attachments/assets/8232c1b2-5fe6-4d52-8751-95c5bcc91855)
 
-#### Flow Generator
 
-![flow_12](https://github.com/user-attachments/assets/30926b06-a5be-4db0-b5c5-f75d2c32662e)
 
-#### Dashboard
+![Image](https://github.com/user-attachments/assets/b3cb4011-0068-46e7-b316-272081fedee3)
 
-![dashboard1](https://github.com/user-attachments/assets/c05b7f40-cb39-4f25-a14d-a0662977703a)
+---
+## Career OverView
 
-![dashboard0](https://github.com/user-attachments/assets/8aad29e0-301e-48de-bafe-540521113fde)
+![Image](https://github.com/user-attachments/assets/d743c7c6-3abf-44d5-8b2a-0896d7997429)
 
-# AI-mentor
+
+
+
